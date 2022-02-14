@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;Wang", 
-				"W^200ang<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When I think of you, I'm reminded of the beautiful plains of Lowa. The distance between us is breaking my spirit. My time and experience without you is meaningless to me. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Falling in Love with you is the easiest thing I have ever done. Nothing matters to me but you. And everyday I am alive I'm aware of this I loved you the day I met you, I love you today, and I will love you tomorrow！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夜には^300いつも^200寒いよね、^600でも、^600手を^200繋いでいると、^600暖か^200くなるよ！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;どんなに^300寒い夜も、^600君と^300二人でいれば、^600ちっとも^300寒くない！<br><br><p style='float:right; display:block; width:80px;'>^1000Q^200in</p>"],
+				"W^200ang<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When I think of you, I'm reminded of the beautiful plains of Lowa. The distance between us is breaking my spirit. My time and experience without you is meaningless to me. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Falling in Love with you is the easiest thing I have ever done. Nothing matters to me but you. And everyday I am alive I'm aware of this I loved you the day I met you, I love you today, and I will love you tomorrow！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夜には^300いつも^200寒いよね、^600でも、^600手を^200繋いでいると、^600暖か^200くなるよ！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;どんなに^300寒い夜も、^600君と^300二人でいれば、^600ちっとも^300寒くない！<br><br><p style='float:right; display:block; width:80px;'>^1000Q^200in</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
